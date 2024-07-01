@@ -1,0 +1,27 @@
+body{
+   
+    background-image: url(background\ wallpaper.jpg);
+    background-size: cover;
+}
+
+#box{text-align: center;}
+
+
+header{
+    text-align: center;
+    background-color: rgb(168, 168, 181);
+    text-decoration:dotted;
+    color: rgb(25, 16, 16);
+}
+#first{
+    
+    text-align: center;
+    color: rgb(145, 39, 39);
+    }
+}
+#second{ ;
+    text-align: center;}
+img{ 
+    height: 210px;
+    border: 1px;
+}
